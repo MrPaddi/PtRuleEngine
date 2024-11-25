@@ -29,7 +29,7 @@ The complete usage documentation can be referred to [Pt Engine Doc](https://www.
 - **Custom Data Structures**: It supports customizing response data structures, facilitating the integration of interactions with various application interfaces.
 - **Diverse Rule Nodes**: It provides multiple rule nodes for abstraction and has an excellent way of describing complex business scenarios.
 - **Version Support**: It has built-in support for rule flow versions, adapting to business upgrades and migrations.
-- **Rich Built-in Functions (Coming Soon)**: It supports rich data operations, including numerical operations, string operations, time functions and so on.
+- **Rich Built-in Functions**: It supports rich data operations, including numerical operations, string operations, time functions and so on.
 - **Extended Node Types (Coming Soon)**: Such as message nodes, API nodes, DB nodes and so on.
 
 ### Excellent Performance

@@ -113,6 +113,8 @@ curl -X POST 'http://localhost:8000/flows/<flow_id>/<version>/' \
 }'
 ```
 
+> 如果只希望运行最新版本的规则流，则`<version>`部分使用`latest`即可。例如`http://localhost:8000/flows/RF008/latest/`
+
 其中`data`分为为该规则流所需的字段信息。可通过编辑服务对应的规则流版本查看。
 
 默认不对字段校验。如需额外做字段类型校验和存在校验，则需在`data`中加入参数`<STRICT>: true`。

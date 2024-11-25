@@ -112,7 +112,7 @@ curl -X POST 'http://localhost:8000/flows/<flow_id>/<version>/' \
 }'
 ```
 
-> If you only want to run the latest version of the rule flow, use 'latest' for the '<version>' section. For example` http://localhost:8000/flows/RF008/latest/ `
+> If you only want to run the latest version of the rule flow, use `latest` for the `<version>` section. For example` http://localhost:8000/flows/RF008/latest/ `
 
 where `data` is the field information required for this rule flow. It can be viewed by editing the corresponding rule flow version of the service.
 

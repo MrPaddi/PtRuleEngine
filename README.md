@@ -9,7 +9,7 @@
 
 The engine consists of two parts:
 
-- Editor: The rule editor that provides the functions of creating and editing rules. It can be used after registering on the official website [Pt Editor](https://www.pt-engine.com/editor/index.html).
+- Editor: The rule editor that provides the functions of creating and editing rules. It can be used after registering on the official website [Pt Editor](https://www.pt-engine.com/editor/).
 
 - Executor: The rule executor, which is responsible for executing rules. It is an independent binary file and interacts through `HTTP` requests after being started locally. The corresponding executor files can be downloaded on the `release` page.
 

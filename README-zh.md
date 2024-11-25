@@ -5,7 +5,7 @@
 
 引擎由两部分组成：
 
-- editor: 规则编辑器，提供规则的创建、编辑功能。在官网注册后即可使用[Pt Editor](https://www.pt-engine.com/editor/index.html)
+- editor: 规则编辑器，提供规则的创建、编辑功能。在官网注册后即可使用[Pt Editor](https://www.pt-engine.com/editor/)
 
 - executor: 规则执行器，负责规则的执行。是一个独立的二进制文件，在本地启动后通过`HTTP`请求交互。在`release`页面即可下载相应的执行器文件。
 
